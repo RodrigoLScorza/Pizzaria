@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pizzaria</string>
+    <string name="form_username">Usuário</string>
+    <string name="form_userkey">Senha</string>
+    <string name="conectar">Conectar</string>
+    <string name="vale_refeicao">refeicao</string>
+    <string name="cartao" />
+    <string name="grana">grana</string>
+
+
+</resources>
